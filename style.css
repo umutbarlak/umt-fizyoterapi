@@ -232,7 +232,7 @@ p{
 }
 
 .ua{
-    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(/image/bizeulas.jpg) ;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(image/bizeulas.jpg) ;
     padding: 100px 0;
     text-align: center;
     width: 80%;
